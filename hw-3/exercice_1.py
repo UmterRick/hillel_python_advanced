@@ -1,1 +1,2 @@
-sashabsndkasfhdasndasj bsn
+def func()
+    ...
